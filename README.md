@@ -52,7 +52,7 @@
 - **Human-in-the-loop** approval workflow
 - **Safety constraints** and audit trails
 
-### 📊 God-Tier Dashboard
+### 📊 Dashboard
 - **5 comprehensive tabs** with 20+ visualizations
 - **Real-time KPIs** (revenue, units sold, transactions)
 - **Interactive charts** with Plotly
